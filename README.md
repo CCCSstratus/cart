@@ -1,5 +1,5 @@
 # CaRT (Compressed and RC4 Transport)
-The CaRT file format is used to store/transfer malware and it's asociated metadata. 
+The CaRT file format is used to store/transfer malware and it's associated metadata. 
 It neuters the malware so it cannot be executed and encrypt it so 
 anti-virus softwares cannot flag the CaRT file as malware.
 
